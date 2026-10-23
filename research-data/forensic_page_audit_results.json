@@ -1,0 +1,1254 @@
+[
+  {
+    "brand": "IPTV Service Radar",
+    "url": "https://iptvserviceradar.com/",
+    "title": "Best IPTV Service List | IPTV Service Radar",
+    "title_len": 43,
+    "desc": "IPTV Service Radar provides insights on IPTV services, comparisons, setup guides, streaming quality, device support, and tips to choose reliable providers.",
+    "desc_len": 155,
+    "canonical": "https://iptvserviceradar.com/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "h1s": [
+      "We Test IPTV Services So You Don&#8217;t Waste Your Money"
+    ],
+    "h2_count": 10,
+    "h2_sample": [
+      "IPTV Services We&#8217;ve Tested",
+      "Discover the world of IPTV with IPTV Service Radar",
+      "New to IPTV? Start Here",
+      "Latest &amp; Featured Posts",
+      "Why Does IPTV Buffer at Night but Not During the Day?"
+    ],
+    "h3_count": 2,
+    "word_count": 830,
+    "total_imgs": 18,
+    "imgs_with_alt": 11,
+    "imgs_empty_alt": 7,
+    "internal_links": 69,
+    "external_links": 18,
+    "schema_types": [
+      "Article",
+      "ImageObject",
+      "Person",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+    ],
+    "vocab_found": {
+      "Power Words": [
+        {
+          "term": "best",
+          "count": 11
+        },
+        {
+          "term": "premium",
+          "count": 1
+        },
+        {
+          "term": "top",
+          "count": 6
+        }
+      ],
+      "Commercial Intent": [
+        {
+          "term": "pricing",
+          "count": 1
+        },
+        {
+          "term": "subscription",
+          "count": 1
+        }
+      ],
+      "Calls to Action": [],
+      "Positive Sentiment": [
+        {
+          "term": "reliable",
+          "count": 3
+        }
+      ],
+      "Negative / Risk Language": [
+        {
+          "term": "buffer",
+          "count": 3
+        },
+        {
+          "term": "buffering",
+          "count": 2
+        },
+        {
+          "term": "waste",
+          "count": 1
+        }
+      ],
+      "Trust Signals": [
+        {
+          "term": "customer support",
+          "count": 1
+        },
+        {
+          "term": "tested",
+          "count": 3
+        },
+        {
+          "term": "free trial",
+          "count": 1
+        }
+      ],
+      "Benefit Statements": [
+        {
+          "term": "zero buffering",
+          "count": 1
+        }
+      ]
+    },
+    "kw_densities": {
+      "best iptv": {
+        "count": 9,
+        "density_pct": 1.08
+      },
+      "iptv service": {
+        "count": 9,
+        "density_pct": 1.08
+      },
+      "iptv usa": {
+        "count": 1,
+        "density_pct": 0.12
+      },
+      "iptv subscription": {
+        "count": 1,
+        "density_pct": 0.12
+      },
+      "firestick": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "tivimate": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "free trial": {
+        "count": 1,
+        "density_pct": 0.12
+      },
+      "sports": {
+        "count": 2,
+        "density_pct": 0.24
+      }
+    }
+  },
+  {
+    "brand": "IPTV Service Radar (USA)",
+    "url": "https://iptvserviceradar.com/best-usa-iptv-provider/",
+    "title": "10 Best USA IPTV Service Providers 2026 (Tested &amp; Ranked) - IPTV Service Radar",
+    "title_len": 82,
+    "desc": "Compare the best USA IPTV service providers ranked by stability, channels, and value. Pick the right one for your home. Start streaming today.",
+    "desc_len": 142,
+    "canonical": "https://iptvserviceradar.com/best-usa-iptv-provider/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "h1s": [
+      "10 Best USA IPTV Service Providers 2026 (Tested &#038; Ranked)"
+    ],
+    "h2_count": 11,
+    "h2_sample": [
+      "Top IPTV USA Providers List",
+      "Top USA IPTV Providers: Comparison Table",
+      "Our Methodology to Test USA IPTV Providers",
+      "How Did We Evaluate The Best USA IPTV Providers?",
+      "IPTV Mistakes That Cost You Money"
+    ],
+    "h3_count": 25,
+    "word_count": 7670,
+    "total_imgs": 28,
+    "imgs_with_alt": 21,
+    "imgs_empty_alt": 7,
+    "internal_links": 102,
+    "external_links": 84,
+    "schema_types": [
+      "Answer",
+      "Article",
+      "BreadcrumbList",
+      "FAQPage",
+      "ImageObject",
+      "ListItem",
+      "Person",
+      "Question",
+      "SpeakableSpecification",
+      "WebPage",
+      "WebSite"
+    ],
+    "vocab_found": {
+      "Power Words": [
+        {
+          "term": "best",
+          "count": 73
+        },
+        {
+          "term": "premium",
+          "count": 16
+        },
+        {
+          "term": "advanced",
+          "count": 2
+        },
+        {
+          "term": "top",
+          "count": 10
+        },
+        {
+          "term": "perfect",
+          "count": 1
+        }
+      ],
+      "Commercial Intent": [
+        {
+          "term": "buy",
+          "count": 2
+        },
+        {
+          "term": "price",
+          "count": 7
+        },
+        {
+          "term": "pricing",
+          "count": 25
+        },
+        {
+          "term": "subscription",
+          "count": 20
+        },
+        {
+          "term": "plans",
+          "count": 22
+        },
+        {
+          "term": "packages",
+          "count": 1
+        },
+        {
+          "term": "cost",
+          "count": 9
+        },
+        {
+          "term": "cheap",
+          "count": 1
+        },
+        {
+          "term": "affordable",
+          "count": 3
+        },
+        {
+          "term": "deal",
+          "count": 7
+        }
+      ],
+      "Calls to Action": [
+        {
+          "term": "get started",
+          "count": 1
+        }
+      ],
+      "Positive Sentiment": [
+        {
+          "term": "reliable",
+          "count": 14
+        },
+        {
+          "term": "stable",
+          "count": 10
+        },
+        {
+          "term": "fast",
+          "count": 7
+        }
+      ],
+      "Negative / Risk Language": [
+        {
+          "term": "buffer",
+          "count": 1
+        },
+        {
+          "term": "buffering",
+          "count": 10
+        },
+        {
+          "term": "freeze",
+          "count": 1
+        },
+        {
+          "term": "freezing",
+          "count": 2
+        },
+        {
+          "term": "throttling",
+          "count": 1
+        },
+        {
+          "term": "unreliable",
+          "count": 1
+        },
+        {
+          "term": "mistakes",
+          "count": 4
+        }
+      ],
+      "Trust Signals": [
+        {
+          "term": "money-back guarantee",
+          "count": 9
+        },
+        {
+          "term": "customer support",
+          "count": 6
+        },
+        {
+          "term": "tested",
+          "count": 9
+        },
+        {
+          "term": "reviewed",
+          "count": 2
+        },
+        {
+          "term": "free trial",
+          "count": 29
+        }
+      ],
+      "Benefit Statements": [
+        {
+          "term": "anti-freeze",
+          "count": 1
+        },
+        {
+          "term": "multi-device",
+          "count": 4
+        },
+        {
+          "term": "epg guide",
+          "count": 5
+        }
+      ]
+    },
+    "kw_densities": {
+      "best iptv": {
+        "count": 21,
+        "density_pct": 0.27
+      },
+      "iptv service": {
+        "count": 31,
+        "density_pct": 0.4
+      },
+      "iptv usa": {
+        "count": 1,
+        "density_pct": 0.01
+      },
+      "iptv subscription": {
+        "count": 5,
+        "density_pct": 0.07
+      },
+      "firestick": {
+        "count": 2,
+        "density_pct": 0.03
+      },
+      "tivimate": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "free trial": {
+        "count": 29,
+        "density_pct": 0.38
+      },
+      "sports": {
+        "count": 45,
+        "density_pct": 0.59
+      }
+    }
+  },
+  {
+    "brand": "IPTV Service Review",
+    "url": "https://iptvservicereview.com/",
+    "title": "Best IPTV Service USA 2026: 16 Providers Compared",
+    "title_len": 49,
+    "desc": "Compare 16 IPTV services for the USA in 2026, including prices from $8.33/month, free trials, sports, Firestick support and multi-device plans.",
+    "desc_len": 143,
+    "canonical": "https://iptvservicereview.com/",
+    "robots": "index, follow, max-image-preview:large, max-snippet:-1",
+    "h1s": [
+      "Best IPTV Service USA 2026: 16 Providers Compared"
+    ],
+    "h2_count": 13,
+    "h2_sample": [
+      "Best IPTV service USA: the short answer",
+      "Eight IPTV services we test for USA viewers",
+      "Best IPTV for sports in 2026",
+      "Tier two: eight market names we have not tested",
+      "What IPTV actually is"
+    ],
+    "h3_count": 20,
+    "word_count": 3350,
+    "total_imgs": 1,
+    "imgs_with_alt": 1,
+    "imgs_empty_alt": 0,
+    "internal_links": 69,
+    "external_links": 0,
+    "schema_types": [
+      "Answer",
+      "Article",
+      "BreadcrumbList",
+      "ContactPoint",
+      "FAQPage",
+      "ImageObject",
+      "ItemList",
+      "ListItem",
+      "Organization",
+      "Person",
+      "Question",
+      "WebPage",
+      "WebSite"
+    ],
+    "vocab_found": {
+      "Power Words": [
+        {
+          "term": "best",
+          "count": 12
+        },
+        {
+          "term": "premium",
+          "count": 3
+        },
+        {
+          "term": "complete",
+          "count": 1
+        },
+        {
+          "term": "top",
+          "count": 6
+        }
+      ],
+      "Commercial Intent": [
+        {
+          "term": "buy",
+          "count": 1
+        },
+        {
+          "term": "order",
+          "count": 11
+        },
+        {
+          "term": "price",
+          "count": 10
+        },
+        {
+          "term": "pricing",
+          "count": 5
+        },
+        {
+          "term": "subscription",
+          "count": 5
+        },
+        {
+          "term": "plans",
+          "count": 4
+        },
+        {
+          "term": "packages",
+          "count": 2
+        },
+        {
+          "term": "cost",
+          "count": 5
+        }
+      ],
+      "Calls to Action": [],
+      "Positive Sentiment": [
+        {
+          "term": "stable",
+          "count": 3
+        },
+        {
+          "term": "fast",
+          "count": 2
+        }
+      ],
+      "Negative / Risk Language": [
+        {
+          "term": "buffering",
+          "count": 3
+        },
+        {
+          "term": "freeze",
+          "count": 5
+        },
+        {
+          "term": "freezing",
+          "count": 1
+        },
+        {
+          "term": "problems",
+          "count": 1
+        }
+      ],
+      "Trust Signals": [
+        {
+          "term": "tested",
+          "count": 33
+        },
+        {
+          "term": "reviewed",
+          "count": 2
+        },
+        {
+          "term": "no contract",
+          "count": 2
+        },
+        {
+          "term": "free trial",
+          "count": 2
+        }
+      ],
+      "Benefit Statements": [
+        {
+          "term": "anti-freeze",
+          "count": 5
+        },
+        {
+          "term": "multi-device",
+          "count": 1
+        }
+      ]
+    },
+    "kw_densities": {
+      "best iptv": {
+        "count": 9,
+        "density_pct": 0.27
+      },
+      "iptv service": {
+        "count": 7,
+        "density_pct": 0.21
+      },
+      "iptv usa": {
+        "count": 2,
+        "density_pct": 0.06
+      },
+      "iptv subscription": {
+        "count": 1,
+        "density_pct": 0.03
+      },
+      "firestick": {
+        "count": 5,
+        "density_pct": 0.15
+      },
+      "tivimate": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "free trial": {
+        "count": 2,
+        "density_pct": 0.06
+      },
+      "sports": {
+        "count": 11,
+        "density_pct": 0.33
+      }
+    }
+  },
+  {
+    "brand": "The IPTV Guide (Home)",
+    "url": "https://www.theiptvguide.com/",
+    "title": "The IPTV Guide - The Best IPTV Providers - Updated 2026",
+    "title_len": 55,
+    "desc": "Find the best IPTV providers with The IPTV Guide. Our expert recommendations make it easy to choose the perfect service for your needs.",
+    "desc_len": 135,
+    "canonical": "https://www.theiptvguide.com/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "h1s": [
+      "Bringing you the best IPTV Providers"
+    ],
+    "h2_count": 6,
+    "h2_sample": [
+      "Most popular",
+      "How it all works",
+      "1",
+      "2",
+      "3"
+    ],
+    "h3_count": 2,
+    "word_count": 803,
+    "total_imgs": 16,
+    "imgs_with_alt": 16,
+    "imgs_empty_alt": 0,
+    "internal_links": 100,
+    "external_links": 0,
+    "schema_types": [
+      "Article",
+      "ImageObject",
+      "Organization",
+      "Person",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+    ],
+    "vocab_found": {
+      "Power Words": [
+        {
+          "term": "best",
+          "count": 11
+        },
+        {
+          "term": "ultimate",
+          "count": 2
+        },
+        {
+          "term": "complete",
+          "count": 2
+        },
+        {
+          "term": "top",
+          "count": 3
+        }
+      ],
+      "Commercial Intent": [
+        {
+          "term": "pricing",
+          "count": 1
+        }
+      ],
+      "Calls to Action": [
+        {
+          "term": "get started",
+          "count": 5
+        },
+        {
+          "term": "try now",
+          "count": 1
+        }
+      ],
+      "Positive Sentiment": [
+        {
+          "term": "seamless",
+          "count": 1
+        }
+      ],
+      "Negative / Risk Language": [],
+      "Trust Signals": [
+        {
+          "term": "customer support",
+          "count": 2
+        },
+        {
+          "term": "tested",
+          "count": 1
+        },
+        {
+          "term": "free trial",
+          "count": 1
+        }
+      ],
+      "Benefit Statements": []
+    },
+    "kw_densities": {
+      "best iptv": {
+        "count": 4,
+        "density_pct": 0.5
+      },
+      "iptv service": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv usa": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv subscription": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "firestick": {
+        "count": 5,
+        "density_pct": 0.62
+      },
+      "tivimate": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "free trial": {
+        "count": 1,
+        "density_pct": 0.12
+      },
+      "sports": {
+        "count": 5,
+        "density_pct": 0.62
+      }
+    }
+  },
+  {
+    "brand": "The IPTV Guide (Best IPTV)",
+    "url": "https://www.theiptvguide.com/best-iptv-2026/",
+    "title": "Best IPTV Providers 2026 \u2013 Tested &amp; Reviewed (Top Picks)",
+    "title_len": 60,
+    "desc": "Looking for the best IPTV? Check out our comprehensive list of the best IPTV providers, including Layerseven TV, StreamQ, IPTV US and more!",
+    "desc_len": 139,
+    "canonical": "https://www.theiptvguide.com/best-iptv-2026/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "h1s": [
+      "Best IPTV Providers 2026 \u2013 Tested &amp; Reviewed (Top Picks)"
+    ],
+    "h2_count": 8,
+    "h2_sample": [
+      "Quick Verdict",
+      "Quick Comparison Table",
+      "In-Depth IPTV Reviews",
+      "How We Tested IPTV Providers",
+      "Buying Guide"
+    ],
+    "h3_count": 50,
+    "word_count": 8091,
+    "total_imgs": 34,
+    "imgs_with_alt": 30,
+    "imgs_empty_alt": 4,
+    "internal_links": 106,
+    "external_links": 0,
+    "schema_types": [
+      "AggregateRating",
+      "Article",
+      "Brand",
+      "BreadcrumbList",
+      "ImageObject",
+      "ItemList",
+      "ListItem",
+      "Organization",
+      "Person",
+      "Product",
+      "WebPage",
+      "WebSite"
+    ],
+    "vocab_found": {
+      "Power Words": [
+        {
+          "term": "best",
+          "count": 46
+        },
+        {
+          "term": "premium",
+          "count": 4
+        },
+        {
+          "term": "ultimate",
+          "count": 2
+        },
+        {
+          "term": "complete",
+          "count": 3
+        },
+        {
+          "term": "top",
+          "count": 14
+        },
+        {
+          "term": "perfect",
+          "count": 3
+        },
+        {
+          "term": "leading",
+          "count": 1
+        }
+      ],
+      "Commercial Intent": [
+        {
+          "term": "buy",
+          "count": 2
+        },
+        {
+          "term": "price",
+          "count": 9
+        },
+        {
+          "term": "pricing",
+          "count": 11
+        },
+        {
+          "term": "subscription",
+          "count": 10
+        },
+        {
+          "term": "plans",
+          "count": 4
+        },
+        {
+          "term": "packages",
+          "count": 1
+        },
+        {
+          "term": "cost",
+          "count": 5
+        },
+        {
+          "term": "cheap",
+          "count": 1
+        },
+        {
+          "term": "affordable",
+          "count": 1
+        }
+      ],
+      "Calls to Action": [
+        {
+          "term": "get started",
+          "count": 2
+        },
+        {
+          "term": "sign up",
+          "count": 5
+        },
+        {
+          "term": "try now",
+          "count": 7
+        }
+      ],
+      "Positive Sentiment": [
+        {
+          "term": "reliable",
+          "count": 14
+        },
+        {
+          "term": "stable",
+          "count": 10
+        },
+        {
+          "term": "high-quality",
+          "count": 2
+        },
+        {
+          "term": "seamless",
+          "count": 4
+        },
+        {
+          "term": "trusted",
+          "count": 2
+        },
+        {
+          "term": "fast",
+          "count": 3
+        }
+      ],
+      "Negative / Risk Language": [
+        {
+          "term": "buffer",
+          "count": 1
+        },
+        {
+          "term": "buffering",
+          "count": 13
+        },
+        {
+          "term": "freezing",
+          "count": 1
+        },
+        {
+          "term": "throttle",
+          "count": 1
+        },
+        {
+          "term": "throttling",
+          "count": 2
+        },
+        {
+          "term": "problems",
+          "count": 5
+        }
+      ],
+      "Trust Signals": [
+        {
+          "term": "money-back guarantee",
+          "count": 1
+        },
+        {
+          "term": "customer support",
+          "count": 16
+        },
+        {
+          "term": "tested",
+          "count": 10
+        },
+        {
+          "term": "reviewed",
+          "count": 3
+        },
+        {
+          "term": "free trial",
+          "count": 13
+        }
+      ],
+      "Benefit Statements": [
+        {
+          "term": "zero buffering",
+          "count": 1
+        },
+        {
+          "term": "multi-device",
+          "count": 2
+        }
+      ]
+    },
+    "kw_densities": {
+      "best iptv": {
+        "count": 30,
+        "density_pct": 0.37
+      },
+      "iptv service": {
+        "count": 44,
+        "density_pct": 0.54
+      },
+      "iptv usa": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv subscription": {
+        "count": 6,
+        "density_pct": 0.07
+      },
+      "firestick": {
+        "count": 7,
+        "density_pct": 0.09
+      },
+      "tivimate": {
+        "count": 2,
+        "density_pct": 0.02
+      },
+      "free trial": {
+        "count": 13,
+        "density_pct": 0.16
+      },
+      "sports": {
+        "count": 18,
+        "density_pct": 0.22
+      }
+    }
+  },
+  {
+    "brand": "The IPTV Guide (Firestick)",
+    "url": "https://www.theiptvguide.com/firestick-iptv-guide/",
+    "title": "Firestick IPTV: Discover IPTV on Firestick in 5 Easy Steps (2026)",
+    "title_len": 65,
+    "desc": "A detailed Firestick IPTV guide on how to setup an IPTV Player on your Firestick in 5 Easy Steps using IPTV Smarters!",
+    "desc_len": 117,
+    "canonical": "https://www.theiptvguide.com/firestick-iptv-guide/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "h1s": [
+      "Firestick IPTV: Discover IPTV on Firestick in 5 Easy Steps"
+    ],
+    "h2_count": 10,
+    "h2_sample": [
+      "Introduction",
+      "What&#8217;s a Firestick?",
+      "Understanding Firestick IPTV",
+      "Benefits of Using Firestick IPTV",
+      "Preparing Your Amazon Firestick for Installation"
+    ],
+    "h3_count": 18,
+    "word_count": 3386,
+    "total_imgs": 26,
+    "imgs_with_alt": 18,
+    "imgs_empty_alt": 8,
+    "internal_links": 91,
+    "external_links": 6,
+    "schema_types": [
+      "BlogPosting",
+      "BreadcrumbList",
+      "ImageObject",
+      "ListItem",
+      "Organization",
+      "Person",
+      "WebPage",
+      "WebSite"
+    ],
+    "vocab_found": {
+      "Power Words": [
+        {
+          "term": "best",
+          "count": 3
+        },
+        {
+          "term": "ultimate",
+          "count": 1
+        },
+        {
+          "term": "complete",
+          "count": 3
+        },
+        {
+          "term": "top",
+          "count": 5
+        },
+        {
+          "term": "perfect",
+          "count": 1
+        }
+      ],
+      "Commercial Intent": [
+        {
+          "term": "pricing",
+          "count": 1
+        },
+        {
+          "term": "subscription",
+          "count": 5
+        },
+        {
+          "term": "cheap",
+          "count": 1
+        }
+      ],
+      "Calls to Action": [
+        {
+          "term": "learn more",
+          "count": 1
+        },
+        {
+          "term": "try now",
+          "count": 4
+        }
+      ],
+      "Positive Sentiment": [
+        {
+          "term": "reliable",
+          "count": 1
+        },
+        {
+          "term": "stable",
+          "count": 1
+        },
+        {
+          "term": "high-quality",
+          "count": 1
+        },
+        {
+          "term": "seamless",
+          "count": 1
+        },
+        {
+          "term": "trusted",
+          "count": 1
+        }
+      ],
+      "Negative / Risk Language": [],
+      "Trust Signals": [
+        {
+          "term": "free trial",
+          "count": 1
+        }
+      ],
+      "Benefit Statements": []
+    },
+    "kw_densities": {
+      "best iptv": {
+        "count": 1,
+        "density_pct": 0.03
+      },
+      "iptv service": {
+        "count": 9,
+        "density_pct": 0.27
+      },
+      "iptv usa": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv subscription": {
+        "count": 2,
+        "density_pct": 0.06
+      },
+      "firestick": {
+        "count": 91,
+        "density_pct": 2.69
+      },
+      "tivimate": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "free trial": {
+        "count": 1,
+        "density_pct": 0.03
+      },
+      "sports": {
+        "count": 1,
+        "density_pct": 0.03
+      }
+    }
+  },
+  {
+    "brand": "TalkAndroid (Home)",
+    "url": "https://www.talkandroid.com/",
+    "title": "Talk Android - Google Android News, Guides, and Reviews",
+    "title_len": 55,
+    "desc": "We cover the latest Android news, guides and reviews. 24/7 coverage.",
+    "desc_len": 68,
+    "canonical": "https://www.talkandroid.com/",
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "h1s": [],
+    "h2_count": 27,
+    "h2_sample": [
+      "Android Auto Can Now Check Your Flight or Find Your Appointment, if You Opt In",
+      "Netflix's No. 1 Movie Is Getting Slammed\u2014Here Are 3 Thrillers Actually Worth Watching",
+      "OPPO Find X10 Pro Max Launches With Three 200MP Cameras",
+      "Is This the Real &#8220;Off Switch&#8221; for Aging? Japanese Scientists Reveal Breakthrough That Could Rewind Your Biological Clock",
+      "Your Android Phone\u2019s Storage Is Full? These Hidden Files Could Be the Reason"
+    ],
+    "h3_count": 0,
+    "word_count": 841,
+    "total_imgs": 47,
+    "imgs_with_alt": 47,
+    "imgs_empty_alt": 0,
+    "internal_links": 224,
+    "external_links": 17,
+    "schema_types": [
+      "Article",
+      "ImageObject",
+      "Organization",
+      "Person",
+      "SearchAction",
+      "WebPage",
+      "WebSite"
+    ],
+    "vocab_found": {
+      "Power Words": [
+        {
+          "term": "best",
+          "count": 15
+        },
+        {
+          "term": "top",
+          "count": 1
+        },
+        {
+          "term": "perfect",
+          "count": 1
+        }
+      ],
+      "Commercial Intent": [],
+      "Calls to Action": [],
+      "Positive Sentiment": [],
+      "Negative / Risk Language": [],
+      "Trust Signals": [],
+      "Benefit Statements": []
+    },
+    "kw_densities": {
+      "best iptv": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv service": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv usa": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv subscription": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "firestick": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "tivimate": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "free trial": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "sports": {
+        "count": 0,
+        "density_pct": 0.0
+      }
+    }
+  },
+  {
+    "brand": "TalkAndroid (Search Best IPTV)",
+    "url": "https://www.talkandroid.com/?s=best+iptv",
+    "title": "best iptv | Talk Android",
+    "title_len": 24,
+    "desc": "N/A",
+    "desc_len": 3,
+    "canonical": "N/A",
+    "robots": "follow, noindex",
+    "h1s": [
+      "best iptv"
+    ],
+    "h2_count": 1,
+    "h2_sample": [
+      "Unlock the Full Power of Android Auto: How I Install Unofficial Apps for Streaming, Browsing, and More"
+    ],
+    "h3_count": 10,
+    "word_count": 423,
+    "total_imgs": 22,
+    "imgs_with_alt": 22,
+    "imgs_empty_alt": 0,
+    "internal_links": 156,
+    "external_links": 17,
+    "schema_types": [
+      "Organization",
+      "SearchResultsPage",
+      "WebSite"
+    ],
+    "vocab_found": {
+      "Power Words": [
+        {
+          "term": "best",
+          "count": 18
+        },
+        {
+          "term": "top",
+          "count": 1
+        }
+      ],
+      "Commercial Intent": [
+        {
+          "term": "plans",
+          "count": 2
+        }
+      ],
+      "Calls to Action": [],
+      "Positive Sentiment": [],
+      "Negative / Risk Language": [],
+      "Trust Signals": [],
+      "Benefit Statements": []
+    },
+    "kw_densities": {
+      "best iptv": {
+        "count": 2,
+        "density_pct": 0.47
+      },
+      "iptv service": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv usa": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv subscription": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "firestick": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "tivimate": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "free trial": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "sports": {
+        "count": 0,
+        "density_pct": 0.0
+      }
+    }
+  }
+]

@@ -1,0 +1,854 @@
+[
+  {
+    "brand": "Strong 8K USA",
+    "label": "Strong 8K USA (Home)",
+    "url": "http://localhost:3001/",
+    "title": "Best IPTV Service USA (2026) \u2014 Strong 8K Live Streaming",
+    "title_len": 55,
+    "desc": "Experience America&#x27;s top-rated 8K &amp; 4K IPTV service. Stream 50,000+ live US channels, NFL, NBA &amp; PPV with zero buffering. Instant 60s setup. Try risk-free today!",
+    "desc_len": 174,
+    "canonical": "https://strong8kusa.com",
+    "robots": "N/A",
+    "h1s": [
+      "America&#x27;s Premier 8K &amp; 4K Live Streaming Engine, Engineered for Zero Buffering"
+    ],
+    "h2_count": 17,
+    "h2_sample": [
+      "Instant Activation, Zero Hidden Fees",
+      "180,000+ Movies &amp; Shows Included",
+      "Uncompromising Quality, Zero Buffering",
+      "All Major Live Sports in 4K &amp; 60 FPS",
+      "Engineered for All Your Streaming Devices"
+    ],
+    "h3_count": 150,
+    "word_count": 3705,
+    "total_imgs": 165,
+    "imgs_with_alt": 165,
+    "imgs_empty_alt": 0,
+    "internal_links": 144,
+    "external_links": 0,
+    "schema_types": [
+      "AggregateOffer",
+      "Answer",
+      "Brand",
+      "FAQPage",
+      "Offer",
+      "Organization",
+      "Product",
+      "Question",
+      "WebSite"
+    ],
+    "vocab_found": {
+      "Power Words": [
+        {
+          "term": "best",
+          "count": 6
+        },
+        {
+          "term": "premium",
+          "count": 2
+        },
+        {
+          "term": "complete",
+          "count": 7
+        },
+        {
+          "term": "top",
+          "count": 2
+        }
+      ],
+      "Commercial Intent": [
+        {
+          "term": "order",
+          "count": 1
+        },
+        {
+          "term": "pricing",
+          "count": 6
+        },
+        {
+          "term": "subscription",
+          "count": 6
+        },
+        {
+          "term": "plans",
+          "count": 9
+        },
+        {
+          "term": "packages",
+          "count": 2
+        }
+      ],
+      "Calls to Action": [
+        {
+          "term": "start streaming",
+          "count": 2
+        }
+      ],
+      "Positive Sentiment": [
+        {
+          "term": "crystal-clear",
+          "count": 2
+        },
+        {
+          "term": "fast",
+          "count": 2
+        }
+      ],
+      "Negative / Risk Language": [
+        {
+          "term": "buffer",
+          "count": 1
+        },
+        {
+          "term": "buffering",
+          "count": 11
+        },
+        {
+          "term": "freeze",
+          "count": 6
+        },
+        {
+          "term": "freezing",
+          "count": 1
+        },
+        {
+          "term": "lag",
+          "count": 2
+        },
+        {
+          "term": "throttling",
+          "count": 3
+        }
+      ],
+      "Trust Signals": [
+        {
+          "term": "money-back guarantee",
+          "count": 11
+        },
+        {
+          "term": "refund policy",
+          "count": 1
+        },
+        {
+          "term": "customer support",
+          "count": 3
+        },
+        {
+          "term": "24/7 support",
+          "count": 1
+        },
+        {
+          "term": "free trial",
+          "count": 4
+        },
+        {
+          "term": "instant activation",
+          "count": 1
+        }
+      ],
+      "Benefit Statements": [
+        {
+          "term": "anti-freeze",
+          "count": 6
+        },
+        {
+          "term": "99.9% uptime",
+          "count": 1
+        },
+        {
+          "term": "zero buffering",
+          "count": 5
+        },
+        {
+          "term": "epg guide",
+          "count": 2
+        },
+        {
+          "term": "no ip lock",
+          "count": 5
+        }
+      ]
+    },
+    "kw_densities": {
+      "best iptv": {
+        "count": 1,
+        "density_pct": 0.03
+      },
+      "iptv service": {
+        "count": 1,
+        "density_pct": 0.03
+      },
+      "iptv usa": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv subscription": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "firestick": {
+        "count": 15,
+        "density_pct": 0.4
+      },
+      "tivimate": {
+        "count": 9,
+        "density_pct": 0.24
+      },
+      "free trial": {
+        "count": 4,
+        "density_pct": 0.11
+      },
+      "sports": {
+        "count": 20,
+        "density_pct": 0.54
+      }
+    }
+  },
+  {
+    "brand": "Strong 8K USA",
+    "label": "Strong 8K USA (Pricing)",
+    "url": "http://localhost:3001/pricing",
+    "title": "IPTV Subscription USA : Best 4K &amp; 8K Streaming Plans (2026) | Strong 8K USA",
+    "title_len": 79,
+    "desc": "Buy premium IPTV subscription in the USA. 50,000+ live channels, 180,000+ movies, NFL/NBA live sports in true 4K/8K. Compatible with Firestick, Apple TV, Smart TVs. 30-day money-back guarantee.",
+    "desc_len": 193,
+    "canonical": "https://strong8kusa.com/abonnement",
+    "robots": "N/A",
+    "h1s": [
+      "Flexible Plans Engineered for Every American Household"
+    ],
+    "h2_count": 16,
+    "h2_sample": [
+      "Select Your Screens &amp; Duration",
+      "The Ultimate Cord-Cutting Solution",
+      "Watch on Any Screen You Own",
+      "How Do Simultaneous Screens Work?",
+      "Compare All Subscription Tiers"
+    ],
+    "h3_count": 19,
+    "word_count": 2914,
+    "total_imgs": 41,
+    "imgs_with_alt": 41,
+    "imgs_empty_alt": 0,
+    "internal_links": 136,
+    "external_links": 0,
+    "schema_types": [
+      "AggregateOffer",
+      "Answer",
+      "Brand",
+      "BreadcrumbList",
+      "FAQPage",
+      "ListItem",
+      "Offer",
+      "Product",
+      "Question"
+    ],
+    "vocab_found": {
+      "Power Words": [
+        {
+          "term": "best",
+          "count": 9
+        },
+        {
+          "term": "premium",
+          "count": 3
+        },
+        {
+          "term": "ultimate",
+          "count": 1
+        },
+        {
+          "term": "complete",
+          "count": 7
+        },
+        {
+          "term": "top",
+          "count": 1
+        }
+      ],
+      "Commercial Intent": [
+        {
+          "term": "order",
+          "count": 1
+        },
+        {
+          "term": "pricing",
+          "count": 7
+        },
+        {
+          "term": "subscription",
+          "count": 9
+        },
+        {
+          "term": "plans",
+          "count": 11
+        },
+        {
+          "term": "packages",
+          "count": 2
+        }
+      ],
+      "Calls to Action": [
+        {
+          "term": "start streaming",
+          "count": 1
+        }
+      ],
+      "Positive Sentiment": [
+        {
+          "term": "fast",
+          "count": 2
+        }
+      ],
+      "Negative / Risk Language": [
+        {
+          "term": "buffer",
+          "count": 1
+        },
+        {
+          "term": "buffering",
+          "count": 5
+        },
+        {
+          "term": "freeze",
+          "count": 7
+        },
+        {
+          "term": "freezing",
+          "count": 1
+        },
+        {
+          "term": "throttle",
+          "count": 1
+        },
+        {
+          "term": "throttling",
+          "count": 5
+        }
+      ],
+      "Trust Signals": [
+        {
+          "term": "money-back guarantee",
+          "count": 11
+        },
+        {
+          "term": "refund policy",
+          "count": 1
+        },
+        {
+          "term": "customer support",
+          "count": 1
+        },
+        {
+          "term": "24/7 support",
+          "count": 2
+        },
+        {
+          "term": "free trial",
+          "count": 3
+        }
+      ],
+      "Benefit Statements": [
+        {
+          "term": "anti-freeze",
+          "count": 7
+        },
+        {
+          "term": "99.9% uptime",
+          "count": 1
+        },
+        {
+          "term": "multi-device",
+          "count": 1
+        },
+        {
+          "term": "no ip lock",
+          "count": 5
+        }
+      ]
+    },
+    "kw_densities": {
+      "best iptv": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv service": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv usa": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv subscription": {
+        "count": 1,
+        "density_pct": 0.03
+      },
+      "firestick": {
+        "count": 14,
+        "density_pct": 0.48
+      },
+      "tivimate": {
+        "count": 6,
+        "density_pct": 0.21
+      },
+      "free trial": {
+        "count": 3,
+        "density_pct": 0.1
+      },
+      "sports": {
+        "count": 16,
+        "density_pct": 0.55
+      }
+    }
+  },
+  {
+    "brand": "Strong 8K USA",
+    "label": "Strong 8K USA (Free Trial)",
+    "url": "http://localhost:3001/free-trial",
+    "title": "IPTV Free Trial USA : Test Strong 8K 4K Streaming Risk-Free | Strong 8K USA",
+    "title_len": 75,
+    "desc": "Try Strong 8K USA risk-free with our 30-day money-back guarantee. Test 50,000+ live channels, 4K sports, and anti-buffering CDN before committing.",
+    "desc_len": 146,
+    "canonical": "https://strong8kusa.com/abonnement/essai-gratuit",
+    "robots": "N/A",
+    "h1s": [
+      "IPTV Free Trial &amp; 30-Day Guarantee"
+    ],
+    "h2_count": 13,
+    "h2_sample": [
+      "How to Test Strong 8K USA Risk-Free",
+      "Choisissez votre dur\u00e9e pour Free Trial &amp; Guarantee",
+      "Tout est compris sans co\u00fbt additionnel",
+      "Comment d\u00e9marrer en 3 \u00e9tapes",
+      "Moyens de paiement accept\u00e9s"
+    ],
+    "h3_count": 5,
+    "word_count": 1564,
+    "total_imgs": 25,
+    "imgs_with_alt": 25,
+    "imgs_empty_alt": 0,
+    "internal_links": 123,
+    "external_links": 0,
+    "schema_types": [
+      "Answer",
+      "BreadcrumbList",
+      "FAQPage",
+      "ListItem",
+      "Question"
+    ],
+    "vocab_found": {
+      "Power Words": [
+        {
+          "term": "best",
+          "count": 4
+        },
+        {
+          "term": "premium",
+          "count": 2
+        },
+        {
+          "term": "complete",
+          "count": 5
+        },
+        {
+          "term": "top",
+          "count": 1
+        }
+      ],
+      "Commercial Intent": [
+        {
+          "term": "pricing",
+          "count": 4
+        },
+        {
+          "term": "subscription",
+          "count": 6
+        },
+        {
+          "term": "plans",
+          "count": 6
+        },
+        {
+          "term": "packages",
+          "count": 1
+        }
+      ],
+      "Calls to Action": [
+        {
+          "term": "start streaming",
+          "count": 1
+        }
+      ],
+      "Positive Sentiment": [
+        {
+          "term": "fast",
+          "count": 1
+        }
+      ],
+      "Negative / Risk Language": [
+        {
+          "term": "buffering",
+          "count": 1
+        },
+        {
+          "term": "freeze",
+          "count": 6
+        },
+        {
+          "term": "freezing",
+          "count": 1
+        },
+        {
+          "term": "throttling",
+          "count": 1
+        }
+      ],
+      "Trust Signals": [
+        {
+          "term": "money-back guarantee",
+          "count": 9
+        },
+        {
+          "term": "refund policy",
+          "count": 1
+        },
+        {
+          "term": "24/7 support",
+          "count": 2
+        },
+        {
+          "term": "free trial",
+          "count": 8
+        }
+      ],
+      "Benefit Statements": [
+        {
+          "term": "anti-freeze",
+          "count": 6
+        },
+        {
+          "term": "no ip lock",
+          "count": 5
+        }
+      ]
+    },
+    "kw_densities": {
+      "best iptv": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv service": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv usa": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv subscription": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "firestick": {
+        "count": 9,
+        "density_pct": 0.58
+      },
+      "tivimate": {
+        "count": 4,
+        "density_pct": 0.26
+      },
+      "free trial": {
+        "count": 8,
+        "density_pct": 0.51
+      },
+      "sports": {
+        "count": 12,
+        "density_pct": 0.77
+      }
+    }
+  },
+  {
+    "brand": "Strong 8K USA",
+    "label": "Strong 8K USA (Firestick)",
+    "url": "http://localhost:3001/devices/firestick",
+    "title": "How to Setup IPTV on Firestick (2026) \u2014 Complete Step-by-Step Guide | Strong 8K USA",
+    "title_len": 83,
+    "desc": "Learn how to setup IPTV on Amazon Firestick 4K Max &amp; Fire TV Cube. Discover the best IPTV apps for Firestick, Downloader setup, and anti-buffering settings.",
+    "desc_len": 160,
+    "canonical": "https://strong8kusa.com/appareils/firestick",
+    "robots": "N/A",
+    "h1s": [
+      "How to Setup IPTV on Amazon Firestick (2026 Guide)"
+    ],
+    "h2_count": 13,
+    "h2_sample": [
+      "4kiptvfr.com sur Amazon Firestick 4K &amp; Fire TV",
+      "L&#x27;essentiel sur Amazon Firestick 4K &amp; Fire TV",
+      "Comment installer l&#x27;IPTV sur Amazon Firestick 4K &amp; Fire TV en 4 \u00e9tapes",
+      "Lecteurs recommand\u00e9s",
+      "Probl\u00e8mes fr\u00e9quents sur Amazon Firestick 4K &amp; Fire TV"
+    ],
+    "h3_count": 14,
+    "word_count": 1379,
+    "total_imgs": 7,
+    "imgs_with_alt": 7,
+    "imgs_empty_alt": 0,
+    "internal_links": 133,
+    "external_links": 0,
+    "schema_types": [
+      "Answer",
+      "BreadcrumbList",
+      "FAQPage",
+      "HowTo",
+      "HowToStep",
+      "ListItem",
+      "Question"
+    ],
+    "vocab_found": {
+      "Power Words": [
+        {
+          "term": "best",
+          "count": 4
+        },
+        {
+          "term": "premium",
+          "count": 1
+        },
+        {
+          "term": "ultimate",
+          "count": 1
+        },
+        {
+          "term": "advanced",
+          "count": 1
+        },
+        {
+          "term": "complete",
+          "count": 5
+        },
+        {
+          "term": "top",
+          "count": 1
+        }
+      ],
+      "Commercial Intent": [
+        {
+          "term": "pricing",
+          "count": 4
+        },
+        {
+          "term": "subscription",
+          "count": 3
+        },
+        {
+          "term": "plans",
+          "count": 5
+        },
+        {
+          "term": "packages",
+          "count": 1
+        }
+      ],
+      "Calls to Action": [],
+      "Positive Sentiment": [
+        {
+          "term": "unmatched",
+          "count": 1
+        }
+      ],
+      "Negative / Risk Language": [
+        {
+          "term": "buffering",
+          "count": 2
+        },
+        {
+          "term": "throttling",
+          "count": 4
+        }
+      ],
+      "Trust Signals": [
+        {
+          "term": "refund policy",
+          "count": 1
+        },
+        {
+          "term": "24/7 support",
+          "count": 2
+        },
+        {
+          "term": "free trial",
+          "count": 3
+        }
+      ],
+      "Benefit Statements": []
+    },
+    "kw_densities": {
+      "best iptv": {
+        "count": 1,
+        "density_pct": 0.07
+      },
+      "iptv service": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv usa": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv subscription": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "firestick": {
+        "count": 28,
+        "density_pct": 2.03
+      },
+      "tivimate": {
+        "count": 10,
+        "density_pct": 0.73
+      },
+      "free trial": {
+        "count": 3,
+        "density_pct": 0.22
+      },
+      "sports": {
+        "count": 6,
+        "density_pct": 0.44
+      }
+    }
+  },
+  {
+    "brand": "Strong 8K USA",
+    "label": "Strong 8K USA (Sports)",
+    "url": "http://localhost:3001/sports",
+    "title": "IPTV Sport : football, F1, tennis, rugby en direct | Strong 8K USA",
+    "title_len": 66,
+    "desc": "Suivez tout le sport en direct avec 4kiptvfr.com : Ligue 1, Champions League, Formule 1, Roland-Garros, Top 14, NBA. En 4K, sans coupure, sur tous vos appareils.",
+    "desc_len": 161,
+    "canonical": "https://strong8kusa.com/contenu/sport",
+    "robots": "N/A",
+    "h1s": [
+      "Tout le sport en direct et en 4K"
+    ],
+    "h2_count": 10,
+    "h2_sample": [
+      "Choisissez votre sport",
+      "Regarder les grandes comp\u00e9titions en direct",
+      "Les cha\u00eenes qui diffusent le sport",
+      "Regarder le sport sans coupure",
+      "Ready to Upgrade Your Home Entertainment?"
+    ],
+    "h3_count": 29,
+    "word_count": 1343,
+    "total_imgs": 6,
+    "imgs_with_alt": 6,
+    "imgs_empty_alt": 0,
+    "internal_links": 152,
+    "external_links": 0,
+    "schema_types": [
+      "BreadcrumbList",
+      "ListItem"
+    ],
+    "vocab_found": {
+      "Power Words": [
+        {
+          "term": "best",
+          "count": 2
+        },
+        {
+          "term": "premium",
+          "count": 1
+        },
+        {
+          "term": "complete",
+          "count": 3
+        },
+        {
+          "term": "top",
+          "count": 5
+        }
+      ],
+      "Commercial Intent": [
+        {
+          "term": "pricing",
+          "count": 4
+        },
+        {
+          "term": "subscription",
+          "count": 3
+        },
+        {
+          "term": "plans",
+          "count": 5
+        },
+        {
+          "term": "packages",
+          "count": 1
+        }
+      ],
+      "Calls to Action": [],
+      "Positive Sentiment": [],
+      "Negative / Risk Language": [
+        {
+          "term": "buffering",
+          "count": 2
+        },
+        {
+          "term": "throttling",
+          "count": 1
+        }
+      ],
+      "Trust Signals": [
+        {
+          "term": "refund policy",
+          "count": 1
+        },
+        {
+          "term": "24/7 support",
+          "count": 2
+        },
+        {
+          "term": "free trial",
+          "count": 3
+        }
+      ],
+      "Benefit Statements": []
+    },
+    "kw_densities": {
+      "best iptv": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv service": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv usa": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "iptv subscription": {
+        "count": 0,
+        "density_pct": 0.0
+      },
+      "firestick": {
+        "count": 2,
+        "density_pct": 0.15
+      },
+      "tivimate": {
+        "count": 4,
+        "density_pct": 0.3
+      },
+      "free trial": {
+        "count": 3,
+        "density_pct": 0.22
+      },
+      "sports": {
+        "count": 10,
+        "density_pct": 0.74
+      }
+    }
+  }
+]

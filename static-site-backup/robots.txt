@@ -1,0 +1,8 @@
+# Strong 8K USA — Robots Configuration
+# Pre-launch security hold active: Search engines are restricted until official public DNS launch.
+
+User-agent: *
+Disallow: /
+
+# Sitemap Index Reference
+Sitemap: https://strong8kusa.com/sitemap.xml

@@ -1,0 +1,16 @@
+{
+  "name": "Strong 8K USA",
+  "short_name": "Strong4K",
+  "description": "Premier 4K & 8K IPTV streaming and cord-cutting platform for US viewers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070a13",
+  "theme_color": "#00d2ff",
+  "icons": [
+    {
+      "src": "/assets/images/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

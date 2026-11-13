@@ -21,7 +21,7 @@ export async function tmdbFetch<T>(
   if (!TOKEN && !API_KEY) return null;
 
   const url = new URL(`${BASE_URL}${path}`);
-  url.searchParams.set("language", "fr-FR");
+  url.searchParams.set("language", "en-US");
   for (const [k, v] of Object.entries(params)) url.searchParams.set(k, String(v));
   // Fallback auth if only the v3 key is available.
   if (!TOKEN && API_KEY) url.searchParams.set("api_key", API_KEY);

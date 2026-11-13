@@ -14,6 +14,8 @@ import { PRIMARY_CTA, SECONDARY_CTA } from "@/lib/site";
 import { APPLICATIONS, APP_SLUGS, APP_ICONS } from "@/lib/applications";
 import { APP_CROSS_LINKS } from "@/lib/internal-links";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return APP_SLUGS.map((app) => ({ app }));
 }

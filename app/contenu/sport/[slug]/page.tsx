@@ -11,6 +11,8 @@ import { buildMetadata, faqSchema } from "@/lib/seo";
 import { PRIMARY_CTA, SECONDARY_CTA } from "@/lib/site";
 import { SPORT, SPORT_SLUGS } from "@/lib/sport";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return SPORT_SLUGS.map((slug) => ({ slug }));
 }

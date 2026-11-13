@@ -9,6 +9,8 @@ import { buildMetadata } from "@/lib/seo";
 import { PRIMARY_CTA, SECONDARY_CTA } from "@/lib/site";
 import { COMPARATIFS, COMPARATIF_SLUGS } from "@/lib/comparatifs";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return COMPARATIF_SLUGS.map((slug) => ({ slug }));
 }

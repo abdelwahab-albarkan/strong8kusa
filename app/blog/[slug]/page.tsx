@@ -11,6 +11,8 @@ import JsonLd from "@/components/JsonLd";
 import { buildMetadata, articleSchema, faqSchema } from "@/lib/seo";
 import { getAllPosts, getPostBySlug, formatDate } from "@/lib/blog";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
 }

@@ -1,13 +1,11 @@
-import Link from "next/link";
 import Section from "@/components/Section";
 import SectionHeading from "@/components/SectionHeading";
 import PageHeader from "@/components/PageHeader";
 import LinkCard from "@/components/LinkCard";
 import CTA from "@/components/CTA";
-import Icon, { type IconName } from "@/components/Icon";
+import { type IconName } from "@/components/Icon";
 import { buildMetadata } from "@/lib/seo";
 import { PRIMARY_CTA, SECONDARY_CTA } from "@/lib/site";
-import { SPORT_BY_TYPE } from "@/lib/sport";
 
 export const metadata = buildMetadata({
   title: "Live Sports Streaming IPTV: NFL, NBA, Premier League & PPV in 4K 60FPS",

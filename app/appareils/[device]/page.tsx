@@ -15,6 +15,8 @@ import { PRIMARY_CTA, SECONDARY_CTA } from "@/lib/site";
 import { DEVICES, DEVICE_SLUGS, DEVICE_IMAGES } from "@/lib/devices";
 import { DEVICE_CROSS_LINKS } from "@/lib/internal-links";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return DEVICE_SLUGS.map((device) => ({ device }));
 }

@@ -14,6 +14,8 @@ import { buildMetadata, faqSchema } from "@/lib/seo";
 import { PRIMARY_CTA, SECONDARY_CTA } from "@/lib/site";
 import { OFFERS, OFFER_SLUGS, OFFER_LIST } from "@/lib/abonnement";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return OFFER_SLUGS.map((slug) => ({ slug }));
 }

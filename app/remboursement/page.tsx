@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Section from "@/components/Section";
 import PageHeader from "@/components/PageHeader";
 import { buildMetadata } from "@/lib/seo";
@@ -36,7 +37,7 @@ export default function RemboursementPage() {
           <p>
             To ensure your home internet speed and media player hardware are fully optimized before committing to an annual plan,
             we encourage all prospective customers to test our service with an instant 24-hour test line on our{" "}
-            <a href="/abonnement/essai-gratuit">Free Trial page</a>.
+            <Link href="/abonnement/essai-gratuit">Free Trial page</Link>.
           </p>
 
           <h2>3. Simple 3-Step Refund Request</h2>

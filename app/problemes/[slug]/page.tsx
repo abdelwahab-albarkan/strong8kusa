@@ -10,6 +10,8 @@ import { buildMetadata, howToSchema } from "@/lib/seo";
 import { SECONDARY_CTA } from "@/lib/site";
 import { PROBLEMS, PROBLEM_SLUGS, PROBLEM_LIST } from "@/lib/problemes";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return PROBLEM_SLUGS.map((slug) => ({ slug }));
 }

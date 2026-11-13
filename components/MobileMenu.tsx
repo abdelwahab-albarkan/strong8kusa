@@ -28,10 +28,14 @@ export default function MobileMenu({
 
   // Single-open accordion: only one category is expanded at a time.
   const [expanded, setExpanded] = useState<string | null>(activeGroup);
+  const [prevOpen, setPrevOpen] = useState(open);
 
-  useEffect(() => {
-    if (open) setExpanded(activeGroup);
-  }, [open, activeGroup]);
+  if (open !== prevOpen) {
+    setPrevOpen(open);
+    if (open) {
+      setExpanded(activeGroup);
+    }
+  }
 
   // Lock body scroll + close on Escape while the menu is open.
   useEffect(() => {

@@ -12,6 +12,8 @@ import { buildMetadata, faqSchema } from "@/lib/seo";
 import { PRIMARY_CTA, SECONDARY_CTA } from "@/lib/site";
 import { CHAINES, CHAINES_SLUGS } from "@/lib/chaines";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return CHAINES_SLUGS.map((slug) => ({ slug }));
 }

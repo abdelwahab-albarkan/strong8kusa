@@ -39,18 +39,26 @@ const STATIC_ROUTES = [
   "/contact",
 ];
 
+export const revalidate = 86400; // Cache sitemap for 24 hours
+
 export default function sitemap(): MetadataRoute.Sitemap {
-  const now = new Date();
+  // lastModified is only emitted when a real date exists (blog posts); a
+  // build-time "now" on every URL would be a fake freshness signal.
   const entry = (
     path: string,
     priority: number,
     changeFrequency: MetadataRoute.Sitemap[number]["changeFrequency"],
-    lastModified: Date = now
-  ) => ({ url: `${SITE.domain}${path}`, lastModified, changeFrequency, priority });
+    lastModified?: Date
+  ) => ({
+    url: `${SITE.domain}${path === "/" ? "" : path.replace(/\/+$/, "")}`,
+    ...(lastModified && !Number.isNaN(lastModified.getTime()) ? { lastModified } : {}),
+    changeFrequency,
+    priority,
+  });
 
   const highValue = new Set(["/meilleur-iptv", "/abonnement", "/abonnement/essai-gratuit"]);
 
-  return [
+  const entries = [
     ...STATIC_ROUTES.map((r) =>
       entry(r, r === "/" ? 1 : highValue.has(r) ? 0.9 : 0.7, r === "/" ? "weekly" : "monthly")
     ),
@@ -63,4 +71,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...CHAINES_SLUGS.map((s) => entry(`/contenu/chaines/${s}`, 0.7, "monthly")),
     ...getAllPosts().map((p) => entry(`/blog/${p.slug}`, 0.6, "monthly", new Date(p.date))),
   ];
+
+  // De-duplicate by URL (first occurrence wins).
+  return [...new Map(entries.map((e) => [e.url, e])).values()];
 }

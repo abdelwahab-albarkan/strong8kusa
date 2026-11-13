@@ -2,8 +2,9 @@ import type { MetadataRoute } from "next";
 import { SITE } from "@/lib/site";
 
 /**
- * Pre-launch robots configuration: prevents crawler indexing until client
- * authorizes public production launch on strong8kusa.com.
+ * Public site: crawling allowed everywhere except API routes. Legal pages are
+ * deliberately NOT disallowed here: they use `noindex`, which crawlers can only
+ * honour if they are allowed to fetch the page.
  */
 export default function robots(): MetadataRoute.Robots {
   return {
@@ -11,9 +12,9 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: "*",
         allow: "/",
+        disallow: ["/api/"],
       },
     ],
     sitemap: `${SITE.domain}/sitemap.xml`,
-    host: SITE.domain,
   };
 }

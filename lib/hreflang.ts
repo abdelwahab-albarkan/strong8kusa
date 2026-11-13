@@ -6,7 +6,7 @@ import { SITE } from "./site";
  */
 
 export function getHreflangAlternates(path: string): Record<string, string> {
-  const cleanPath = path.startsWith("/") ? path : `/${path}`;
+  const cleanPath = path === "/" ? "" : (path.startsWith("/") ? path : `/${path}`).replace(/\/+$/, "");
   const fullUrl = `${SITE.domain}${cleanPath}`;
 
   return {

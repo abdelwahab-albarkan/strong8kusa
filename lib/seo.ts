@@ -14,7 +14,8 @@ export function buildMetadata(spec: {
   ogType?: "website" | "article";
   image?: string;
 }): Metadata {
-  const url = `${SITE.domain}${spec.path}`;
+  const cleanPath = spec.path === "/" ? "" : spec.path.replace(/\/+$/, "");
+  const url = `${SITE.domain}${cleanPath}`;
   const ogImage = `${SITE.domain}${encodeURI(spec.image ?? "/images/home-hero.jpg")}`;
   return {
     title: spec.title,
